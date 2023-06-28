@@ -1,0 +1,32 @@
+html {
+    background-image: linear-gradient(white, rgba(10, 226, 250, 0.625));
+}
+h1{
+    color: blue;
+    width: 700px;
+}
+a{
+    color: #fa0000;
+    font-size: 18px;
+}
+.glavnoe{
+    border: 2px  #fa0000 ;
+}
+.recept{
+    width: 700px;
+    text-align: justify;
+}
+ul{
+    list-style: circle;
+}
+p{
+    font-family: 'Roboto Mono', monospace;
+    color: #8e0880;
+    margin-left: 2%;
+    text-indent: 8px;
+    text-align: justify;
+}
+h2,h3{
+    color: green;
+
+}
